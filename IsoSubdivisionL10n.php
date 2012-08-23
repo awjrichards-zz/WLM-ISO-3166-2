@@ -180,7 +180,7 @@ class SubdivisionL10n {
 	public static function fixL10nName( $name ) {
 		$pattern = array(
 			"/\([^\)]+\)/", // remove any text in parens - eg 'California (state)'
-			"/,.*$/", // remove a comma and anything after it
+			"/,.*[^D\.C\.]$/", // remove a comma and anything after it, except 'D.C.' (ugly Washington, D.C. hack)
 			"/\*+/", // remove any * symbols
 			"/\[.*\]/", // remove anything contained in square brackets
 		);

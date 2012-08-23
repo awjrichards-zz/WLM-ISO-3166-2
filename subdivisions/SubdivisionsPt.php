@@ -2643,6 +2643,10 @@ $subdivisions['UA']['UA-18'] = array(
 'name' => 'Oblast de Jitomir',
 'level' => 'region',
 );
+$subdivisions['GB']['GB-ARD'] = array(
+'name' => 'Ard',
+'level' => 'district council area (northern ireland)',
+);
 $subdivisions['GB']['GB-ABE'] = array(
 'name' => 'Aberdeen',
 'level' => 'council area (scotland)',
@@ -3480,7 +3484,7 @@ $subdivisions['US']['US-UT'] = array(
 'level' => 'state',
 );
 $subdivisions['US']['US-DC'] = array(
-'name' => 'Washington',
+'name' => 'Washington, D.C.',
 'level' => 'district',
 );
 $subdivisions['US']['US-VT'] = array(

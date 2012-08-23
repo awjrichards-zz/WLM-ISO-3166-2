@@ -271,6 +271,10 @@ $subdivisions['FR']['FR-07'] = array(
 'name' => 'Ardèche\'i departemang',
 'level' => 'metropolitan department',
 );
+$subdivisions['FR']['FR-10'] = array(
+'name' => 'Aube\'i departemang',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-67'] = array(
 'name' => 'Bas-Rhin',
 'level' => 'metropolitan department',
@@ -278,6 +282,10 @@ $subdivisions['FR']['FR-67'] = array(
 $subdivisions['FR']['FR-E'] = array(
 'name' => 'Bretagne\'i poolsaar',
 'level' => 'metropolitan regions',
+);
+$subdivisions['FR']['FR-15'] = array(
+'name' => 'Cantal',
+'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-G'] = array(
 'name' => 'Champagne-Ardenne',
@@ -291,6 +299,10 @@ $subdivisions['FR']['FR-CP'] = array(
 'name' => 'Clipperton',
 'level' => 'dependency',
 );
+$subdivisions['FR']['FR-19'] = array(
+'name' => 'Corrèze',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-2A'] = array(
 'name' => 'Corse du Sud',
 'level' => 'metropolitan department',
@@ -298,6 +310,18 @@ $subdivisions['FR']['FR-2A'] = array(
 $subdivisions['FR']['FR-H'] = array(
 'name' => 'Korsika',
 'level' => 'metropolitan regions',
+);
+$subdivisions['FR']['FR-23'] = array(
+'name' => 'Creuse',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-21'] = array(
+'name' => 'Côte-d\'Or',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-22'] = array(
+'name' => 'Côtes-d\'Armor',
+'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-24'] = array(
 'name' => 'Dordogne',
@@ -313,6 +337,10 @@ $subdivisions['FR']['FR-91'] = array(
 );
 $subdivisions['FR']['FR-27'] = array(
 'name' => 'Eure\'i departemang',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-28'] = array(
+'name' => 'Eure-et-Loir',
 'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-29'] = array(
@@ -335,6 +363,10 @@ $subdivisions['FR']['FR-68'] = array(
 'name' => 'Haut-Rhin',
 'level' => 'metropolitan department',
 );
+$subdivisions['FR']['FR-2B'] = array(
+'name' => 'Haute-Corse',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-P'] = array(
 'name' => 'Alam-Normandia',
 'level' => 'metropolitan regions',
@@ -343,8 +375,20 @@ $subdivisions['FR']['FR-GF'] = array(
 'name' => 'Prantsuse Guajaana',
 'level' => 'overseas regions',
 );
+$subdivisions['FR']['FR-43'] = array(
+'name' => 'Haute-Loire',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-52'] = array(
+'name' => 'Haute-Marne',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-74'] = array(
 'name' => 'Haute-Savoie departemang',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-70'] = array(
+'name' => 'Haute-Saône',
 'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-87'] = array(
@@ -363,16 +407,32 @@ $subdivisions['FR']['FR-34'] = array(
 'name' => 'Hérault',
 'level' => 'metropolitan department',
 );
+$subdivisions['FR']['FR-35'] = array(
+'name' => 'Ille-et-Vilaine',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-36'] = array(
 'name' => 'Indre\'i departemang',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-37'] = array(
+'name' => 'Indre-et-Loire',
 'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-K'] = array(
 'name' => 'Languedoc-Roussillon',
 'level' => 'metropolitan regions',
 );
+$subdivisions['FR']['FR-41'] = array(
+'name' => 'Loir-et-Cher',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-42'] = array(
 'name' => 'Loire\'i departemang',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-45'] = array(
+'name' => 'Loiret\' departemang',
 'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-46'] = array(
@@ -383,6 +443,14 @@ $subdivisions['FR']['FR-47'] = array(
 'name' => 'Lot-et-Garonne',
 'level' => 'metropolitan department',
 );
+$subdivisions['FR']['FR-50'] = array(
+'name' => 'Manche',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-51'] = array(
+'name' => 'Marne\'i departemang',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-MQ'] = array(
 'name' => 'Martinique',
 'level' => 'overseas regions',
@@ -391,9 +459,29 @@ $subdivisions['FR']['FR-YT'] = array(
 'name' => 'Mayotte',
 'level' => 'territorial collectivity',
 );
+$subdivisions['FR']['FR-54'] = array(
+'name' => 'Meurthe-et-Moselle',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-55'] = array(
+'name' => 'Meuse\'i departemang',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-N'] = array(
 'name' => 'Midi–Pyrénées',
 'level' => 'metropolitan regions',
+);
+$subdivisions['FR']['FR-56'] = array(
+'name' => 'Morbihan',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-57'] = array(
+'name' => 'Moselle',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-58'] = array(
+'name' => 'Nièvre',
+'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-59'] = array(
 'name' => 'Nord',
@@ -405,6 +493,10 @@ $subdivisions['FR']['FR-O'] = array(
 );
 $subdivisions['FR']['FR-60'] = array(
 'name' => 'Oise\'i departemang',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-61'] = array(
+'name' => 'Orne',
 'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-75'] = array(
@@ -467,6 +559,14 @@ $subdivisions['FR']['FR-73'] = array(
 'name' => 'Savoia departemang',
 'level' => 'metropolitan department',
 );
+$subdivisions['FR']['FR-71'] = array(
+'name' => 'Saône-et-Loire',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-76'] = array(
+'name' => 'Seine-Maritime',
+'level' => 'metropolitan department',
+);
 $subdivisions['FR']['FR-93'] = array(
 'name' => 'Seine-Saint-Denis',
 'level' => 'metropolitan department',
@@ -493,6 +593,10 @@ $subdivisions['FR']['FR-94'] = array(
 );
 $subdivisions['FR']['FR-85'] = array(
 'name' => 'Vendée',
+'level' => 'metropolitan department',
+);
+$subdivisions['FR']['FR-88'] = array(
+'name' => 'Vosges',
 'level' => 'metropolitan department',
 );
 $subdivisions['FR']['FR-89'] = array(

@@ -3916,7 +3916,7 @@ $subdivisions['US']['US-UT'] = array(
 'level' => 'state',
 );
 $subdivisions['US']['US-DC'] = array(
-'name' => 'Washington',
+'name' => 'Washington D.C.',
 'level' => 'district',
 );
 $subdivisions['US']['US-VT'] = array(

@@ -2632,7 +2632,7 @@ $subdivisions['UA']['UA-63'] = array(
 'level' => 'region',
 );
 $subdivisions['UA']['UA-65'] = array(
-'name' => 'Óblast de Kherson',
+'name' => 'Óblast de Jersón',
 'level' => 'region',
 );
 $subdivisions['UA']['UA-68'] = array(
@@ -3616,7 +3616,7 @@ $subdivisions['US']['US-UT'] = array(
 'level' => 'state',
 );
 $subdivisions['US']['US-DC'] = array(
-'name' => 'Washington',
+'name' => 'Washington D. C.',
 'level' => 'district',
 );
 $subdivisions['US']['US-VT'] = array(
