@@ -3279,35 +3279,35 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Вайомінг',
 'level' => 'state',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'Біркіркара',
 'level' => 'local council',
 );
-$subdivisions['MT']['09'] = array(
+$subdivisions['MT']['MT-09'] = array(
 'name' => 'Флоріана',
 'level' => 'local council',
 );
-$subdivisions['MT']['10'] = array(
+$subdivisions['MT']['MT-10'] = array(
 'name' => 'Фонтана',
 'level' => 'local council',
 );
-$subdivisions['MT']['26'] = array(
+$subdivisions['MT']['MT-26'] = array(
 'name' => 'Марса',
 'level' => 'local council',
 );
-$subdivisions['MT']['29'] = array(
+$subdivisions['MT']['MT-29'] = array(
 'name' => 'Мдіна',
 'level' => 'local council',
 );
-$subdivisions['MT']['46'] = array(
+$subdivisions['MT']['MT-46'] = array(
 'name' => 'Рабат',
 'level' => 'local council',
 );
-$subdivisions['MT']['56'] = array(
+$subdivisions['MT']['MT-56'] = array(
 'name' => 'Сліма',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Валетта',
 'level' => 'local council',
 );

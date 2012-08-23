@@ -1715,11 +1715,11 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Ваёмінг',
 'level' => 'state',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'Біркіркара',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Валета',
 'level' => 'local council',
 );

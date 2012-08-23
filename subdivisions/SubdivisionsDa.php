@@ -2963,19 +2963,19 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'Birkirkara',
 'level' => 'local council',
 );
-$subdivisions['MT']['25'] = array(
+$subdivisions['MT']['MT-25'] = array(
 'name' => 'Luqa',
 'level' => 'local council',
 );
-$subdivisions['MT']['41'] = array(
+$subdivisions['MT']['MT-41'] = array(
 'name' => 'Pietà',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Valletta',
 'level' => 'local council',
 );

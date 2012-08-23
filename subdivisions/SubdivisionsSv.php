@@ -3587,67 +3587,67 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
 );
-$subdivisions['MT']['03'] = array(
+$subdivisions['MT']['MT-03'] = array(
 'name' => 'Birgu',
 'level' => 'local council',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'Birkirkara',
 'level' => 'local council',
 );
-$subdivisions['MT']['05'] = array(
+$subdivisions['MT']['MT-05'] = array(
 'name' => 'Birżebbuġa',
 'level' => 'local council',
 );
-$subdivisions['MT']['09'] = array(
+$subdivisions['MT']['MT-09'] = array(
 'name' => 'Floriana',
 'level' => 'local council',
 );
-$subdivisions['MT']['27'] = array(
+$subdivisions['MT']['MT-27'] = array(
 'name' => 'Marsaskala',
 'level' => 'local council',
 );
-$subdivisions['MT']['28'] = array(
+$subdivisions['MT']['MT-28'] = array(
 'name' => 'Marsaxlokk',
 'level' => 'local council',
 );
-$subdivisions['MT']['29'] = array(
+$subdivisions['MT']['MT-29'] = array(
 'name' => 'Mdina',
 'level' => 'local council',
 );
-$subdivisions['MT']['32'] = array(
+$subdivisions['MT']['MT-32'] = array(
 'name' => 'Mosta',
 'level' => 'local council',
 );
-$subdivisions['MT']['34'] = array(
+$subdivisions['MT']['MT-34'] = array(
 'name' => 'Msida',
 'level' => 'local council',
 );
-$subdivisions['MT']['40'] = array(
+$subdivisions['MT']['MT-40'] = array(
 'name' => 'Pembroke',
 'level' => 'local council',
 );
-$subdivisions['MT']['41'] = array(
+$subdivisions['MT']['MT-41'] = array(
 'name' => 'Pietà',
 'level' => 'local council',
 );
-$subdivisions['MT']['48'] = array(
+$subdivisions['MT']['MT-48'] = array(
 'name' => 'St. Julian\'s',
 'level' => 'local council',
 );
-$subdivisions['MT']['46'] = array(
+$subdivisions['MT']['MT-46'] = array(
 'name' => 'Rabat',
 'level' => 'local council',
 );
-$subdivisions['MT']['56'] = array(
+$subdivisions['MT']['MT-56'] = array(
 'name' => 'Sliema',
 'level' => 'local council',
 );
-$subdivisions['MT']['59'] = array(
+$subdivisions['MT']['MT-59'] = array(
 'name' => 'Tarxien',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Valletta',
 'level' => 'local council',
 );

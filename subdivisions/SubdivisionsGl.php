@@ -2455,11 +2455,11 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
 );
-$subdivisions['MT']['41'] = array(
+$subdivisions['MT']['MT-41'] = array(
 'name' => 'Pietà',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'A Valeta',
 'level' => 'local council',
 );

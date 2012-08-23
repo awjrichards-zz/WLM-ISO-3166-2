@@ -2999,63 +2999,63 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Вајоминг',
 'level' => 'state',
 );
-$subdivisions['MT']['03'] = array(
+$subdivisions['MT']['MT-03'] = array(
 'name' => 'Биргу',
 'level' => 'local council',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'Биркиркара',
 'level' => 'local council',
 );
-$subdivisions['MT']['06'] = array(
+$subdivisions['MT']['MT-06'] = array(
 'name' => 'Бормла',
 'level' => 'local council',
 );
-$subdivisions['MT']['29'] = array(
+$subdivisions['MT']['MT-29'] = array(
 'name' => 'Мдина',
 'level' => 'local council',
 );
-$subdivisions['MT']['43'] = array(
+$subdivisions['MT']['MT-43'] = array(
 'name' => 'Корми',
 'level' => 'local council',
 );
-$subdivisions['MT']['20'] = array(
+$subdivisions['MT']['MT-20'] = array(
 'name' => 'Сенглеа',
 'level' => 'local council',
 );
-$subdivisions['MT']['48'] = array(
+$subdivisions['MT']['MT-48'] = array(
 'name' => 'Сан Ђиљан',
 'level' => 'local council',
 );
-$subdivisions['MT']['46'] = array(
+$subdivisions['MT']['MT-46'] = array(
 'name' => 'Рабат',
 'level' => 'local council',
 );
-$subdivisions['MT']['45'] = array(
+$subdivisions['MT']['MT-45'] = array(
 'name' => 'Викторија',
 'level' => 'local council',
 );
-$subdivisions['MT']['55'] = array(
+$subdivisions['MT']['MT-55'] = array(
 'name' => 'Сигијеви',
 'level' => 'local council',
 );
-$subdivisions['MT']['56'] = array(
+$subdivisions['MT']['MT-56'] = array(
 'name' => 'Слијема',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Валета',
 'level' => 'local council',
 );
-$subdivisions['MT']['64'] = array(
+$subdivisions['MT']['MT-64'] = array(
 'name' => 'Забар',
 'level' => 'local council',
 );
-$subdivisions['MT']['67'] = array(
+$subdivisions['MT']['MT-67'] = array(
 'name' => 'Зејтун',
 'level' => 'local council',
 );
-$subdivisions['MT']['66'] = array(
+$subdivisions['MT']['MT-66'] = array(
 'name' => 'Зебуг',
 'level' => 'local council',
 );

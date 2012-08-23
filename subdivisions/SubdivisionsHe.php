@@ -2115,47 +2115,47 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'ויומינג',
 'level' => 'state',
 );
-$subdivisions['MT']['03'] = array(
+$subdivisions['MT']['MT-03'] = array(
 'name' => 'בירגו',
 'level' => 'local council',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'בירקירקארה',
 'level' => 'local council',
 );
-$subdivisions['MT']['09'] = array(
+$subdivisions['MT']['MT-09'] = array(
 'name' => 'פלוריאנה',
 'level' => 'local council',
 );
-$subdivisions['MT']['25'] = array(
+$subdivisions['MT']['MT-25'] = array(
 'name' => 'לואה',
 'level' => 'local council',
 );
-$subdivisions['MT']['29'] = array(
+$subdivisions['MT']['MT-29'] = array(
 'name' => 'מדינה',
 'level' => 'local council',
 );
-$subdivisions['MT']['41'] = array(
+$subdivisions['MT']['MT-41'] = array(
 'name' => 'פייטה',
 'level' => 'local council',
 );
-$subdivisions['MT']['20'] = array(
+$subdivisions['MT']['MT-20'] = array(
 'name' => 'סנגלאה',
 'level' => 'local council',
 );
-$subdivisions['MT']['45'] = array(
+$subdivisions['MT']['MT-45'] = array(
 'name' => 'ויקטוריה',
 'level' => 'local council',
 );
-$subdivisions['MT']['56'] = array(
+$subdivisions['MT']['MT-56'] = array(
 'name' => 'סליאמה',
 'level' => 'local council',
 );
-$subdivisions['MT']['58'] = array(
+$subdivisions['MT']['MT-58'] = array(
 'name' => 'טא\' שביאש',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'ולטה',
 'level' => 'local council',
 );

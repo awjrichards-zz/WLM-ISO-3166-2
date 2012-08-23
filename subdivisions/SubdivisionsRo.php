@@ -3543,43 +3543,43 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
 );
-$subdivisions['MT']['04'] = array(
+$subdivisions['MT']['MT-04'] = array(
 'name' => 'Birkirkara',
 'level' => 'local council',
 );
-$subdivisions['MT']['05'] = array(
+$subdivisions['MT']['MT-05'] = array(
 'name' => 'Birżebbuġa',
 'level' => 'local council',
 );
-$subdivisions['MT']['29'] = array(
+$subdivisions['MT']['MT-29'] = array(
 'name' => 'Mdina',
 'level' => 'local council',
 );
-$subdivisions['MT']['41'] = array(
+$subdivisions['MT']['MT-41'] = array(
 'name' => 'Pietà',
 'level' => 'local council',
 );
-$subdivisions['MT']['47'] = array(
+$subdivisions['MT']['MT-47'] = array(
 'name' => 'Safi',
 'level' => 'local council',
 );
-$subdivisions['MT']['48'] = array(
+$subdivisions['MT']['MT-48'] = array(
 'name' => 'St. Julian\'s',
 'level' => 'local council',
 );
-$subdivisions['MT']['18'] = array(
+$subdivisions['MT']['MT-18'] = array(
 'name' => 'Ħamrun',
 'level' => 'local council',
 );
-$subdivisions['MT']['45'] = array(
+$subdivisions['MT']['MT-45'] = array(
 'name' => 'Victoria',
 'level' => 'local council',
 );
-$subdivisions['MT']['56'] = array(
+$subdivisions['MT']['MT-56'] = array(
 'name' => 'Sliema',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Valletta',
 'level' => 'local council',
 );

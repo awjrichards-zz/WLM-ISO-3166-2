@@ -1331,19 +1331,19 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
 );
-$subdivisions['MT']['41'] = array(
+$subdivisions['MT']['MT-41'] = array(
 'name' => 'Pietà',
 'level' => 'local council',
 );
-$subdivisions['MT']['56'] = array(
+$subdivisions['MT']['MT-56'] = array(
 'name' => 'Sliema',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Valletta',
 'level' => 'local council',
 );
-$subdivisions['MT']['64'] = array(
+$subdivisions['MT']['MT-64'] = array(
 'name' => 'Żabbar',
 'level' => 'local council',
 );

@@ -2643,15 +2643,15 @@ $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
 );
-$subdivisions['MT']['39'] = array(
+$subdivisions['MT']['MT-39'] = array(
 'name' => 'Paola',
 'level' => 'local council',
 );
-$subdivisions['MT']['45'] = array(
+$subdivisions['MT']['MT-45'] = array(
 'name' => 'Victoria',
 'level' => 'local council',
 );
-$subdivisions['MT']['60'] = array(
+$subdivisions['MT']['MT-60'] = array(
 'name' => 'Valletta',
 'level' => 'local council',
 );
