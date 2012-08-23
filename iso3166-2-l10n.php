@@ -25,9 +25,10 @@ require_once( $dir . "/Iso31662RowProcessor.php" );
 require_once( $dir . "/IsoSubdivision.php" );
 require_once( $dir . "/IsoSubdivisionL10n.php" );
 require_once( $dir . "/subdivisions/SubdivisionsEn.php" );
-// @TODO do something about this unconfigurable whack-ness
-require_once( '/home/awjrichards/Dev/p_erfgoed/api/includes/Defaults.php' );
-require_once( '/home/awjrichards/Dev/p_erfgoed/database.inc' );
+require_once( $dir . "/overrides/OverridesEn.php" );
+require_once( $dir . "/config.inc" );
+require_once( $config[ 'erfgoed_defaults_file' ] );
+require_once( $config[ 'erfgoed_config_file' ] );
 
 // an array to hold subdivision names that we do not have translations for
 $missing = array();

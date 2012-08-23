@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * This file is an example configuration file for WLM-ISO-3166-2
+ *
+ * Copy to config.inc and edit to match your settings
+ */
+
+ $config['erfgoed_defaults_file'] = '/path/to/erfgoed/default/file';
+ $config['erfgoed_config_file'] = '/path/to/erfgoed/config/file';
