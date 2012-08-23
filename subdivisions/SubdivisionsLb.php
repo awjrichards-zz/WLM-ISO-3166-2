@@ -511,9 +511,25 @@ $subdivisions['DE']['DE-SL'] = array(
 'name' => 'Saarland',
 'level' => 'state',
 );
+$subdivisions['IN']['IN-GA'] = array(
+'name' => 'Goa',
+'level' => 'state',
+);
 $subdivisions['IE']['IE-D'] = array(
 'name' => 'Dublin',
 'level' => 'county',
+);
+$subdivisions['IL']['IL-HA'] = array(
+'name' => 'Haifa',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-JM'] = array(
+'name' => 'Jerusalem',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-TA'] = array(
+'name' => 'Tel Aviv',
+'level' => 'district',
 );
 $subdivisions['IT']['IT-BA'] = array(
 'name' => 'Bari',
@@ -714,6 +730,10 @@ $subdivisions['RO']['RO-B'] = array(
 $subdivisions['RO']['RO-SB'] = array(
 'name' => 'Sibiu',
 'level' => 'county',
+);
+$subdivisions['RS']['RS-00'] = array(
+'name' => 'Belgrad',
+'level' => 'city',
 );
 $subdivisions['ES']['ES-AB'] = array(
 'name' => 'Albacete',
@@ -1159,6 +1179,18 @@ $subdivisions['GB']['GB-SRY'] = array(
 'name' => 'Grofschaft Surrey',
 'level' => 'two-tier county',
 );
+$subdivisions['GB']['ENG'] = array(
+'name' => 'England',
+'level' => 'country',
+);
+$subdivisions['GB']['NIR'] = array(
+'name' => 'Nordirland',
+'level' => 'country',
+);
+$subdivisions['GB']['SCT'] = array(
+'name' => 'Schottland',
+'level' => 'country',
+);
 $subdivisions['GB']['GB-TFW'] = array(
 'name' => 'Telford a Wrekin',
 'level' => 'unitary authority',
@@ -1170,6 +1202,10 @@ $subdivisions['GB']['GB-THR'] = array(
 $subdivisions['GB']['GB-TOB'] = array(
 'name' => 'Torbay',
 'level' => 'unitary authority',
+);
+$subdivisions['GB']['WLS'] = array(
+'name' => 'Wales',
+'level' => 'country',
 );
 $subdivisions['GB']['GB-WRT'] = array(
 'name' => 'Warrington',
@@ -1294,4 +1330,20 @@ $subdivisions['US']['US-WI'] = array(
 $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
+);
+$subdivisions['MT']['41'] = array(
+'name' => 'Pietà',
+'level' => 'local council',
+);
+$subdivisions['MT']['56'] = array(
+'name' => 'Sliema',
+'level' => 'local council',
+);
+$subdivisions['MT']['60'] = array(
+'name' => 'Valletta',
+'level' => 'local council',
+);
+$subdivisions['MT']['64'] = array(
+'name' => 'Żabbar',
+'level' => 'local council',
 );

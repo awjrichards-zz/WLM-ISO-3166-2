@@ -103,6 +103,58 @@ $subdivisions['BE']['BE-VWV'] = array(
 'name' => 'Provincia de Flandes Occidental',
 'level' => 'province',
 );
+$subdivisions['CA']['CA-AB'] = array(
+'name' => 'Alberta',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-BC'] = array(
+'name' => 'Columbia Británica',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-MB'] = array(
+'name' => 'Manitoba',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NB'] = array(
+'name' => 'Nuevo Brunswick',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NL'] = array(
+'name' => 'Terranova y Labrador',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NT'] = array(
+'name' => 'Territorios del Noroeste',
+'level' => 'territory',
+);
+$subdivisions['CA']['CA-NS'] = array(
+'name' => 'Nueva Escocia',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NU'] = array(
+'name' => 'Nunavut',
+'level' => 'territory',
+);
+$subdivisions['CA']['CA-ON'] = array(
+'name' => 'Ontario',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-PE'] = array(
+'name' => 'Isla del Príncipe Eduardo',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-QC'] = array(
+'name' => 'Quebec',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-SK'] = array(
+'name' => 'Saskatchewan',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-YT'] = array(
+'name' => 'Yukón',
+'level' => 'territory',
+);
 $subdivisions['CL']['CL-AN'] = array(
 'name' => 'Antofagasta',
 'level' => 'region',
@@ -823,6 +875,170 @@ $subdivisions['DE']['DE-TH'] = array(
 'name' => 'Turingia',
 'level' => 'state',
 );
+$subdivisions['GH']['GH-AH'] = array(
+'name' => 'Ashanti',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-BA'] = array(
+'name' => 'Brong-Ahafo',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-CP'] = array(
+'name' => 'Central',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-AA'] = array(
+'name' => 'Gran Acra',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-UE'] = array(
+'name' => 'Alta Oriental',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-TV'] = array(
+'name' => 'Volta',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-WP'] = array(
+'name' => 'Western',
+'level' => 'region',
+);
+$subdivisions['IN']['IN-AN'] = array(
+'name' => 'Islas Andamán y Nicobar',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-AP'] = array(
+'name' => 'Andhra Pradesh',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-AR'] = array(
+'name' => 'Arunachal Pradesh',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-AS'] = array(
+'name' => 'Assam',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-BR'] = array(
+'name' => 'Bihar',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-CH'] = array(
+'name' => 'Chandigarh',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-CT'] = array(
+'name' => 'Chhattisgarh',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-DN'] = array(
+'name' => 'Dadra y Nagar Haveli',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-DD'] = array(
+'name' => 'Damán y Diu',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-DL'] = array(
+'name' => 'Delhi',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-GA'] = array(
+'name' => 'Goa',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-GJ'] = array(
+'name' => 'Guyarat',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-HR'] = array(
+'name' => 'Haryana',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-HP'] = array(
+'name' => 'Himachal Pradesh',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-JK'] = array(
+'name' => 'Jammu y Cachemira',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-JH'] = array(
+'name' => 'Jharkhand',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-KA'] = array(
+'name' => 'Karnataka',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-KL'] = array(
+'name' => 'Kerala',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-LD'] = array(
+'name' => 'Laquedivas',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-MP'] = array(
+'name' => 'Madhya Pradesh',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-MH'] = array(
+'name' => 'Maharastra',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-MN'] = array(
+'name' => 'Manipur',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-ML'] = array(
+'name' => 'Megalaya',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-MZ'] = array(
+'name' => 'Mizorán',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-NL'] = array(
+'name' => 'Nagaland',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-OR'] = array(
+'name' => 'Orissa',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-PY'] = array(
+'name' => 'Puducherry',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-RJ'] = array(
+'name' => 'Rajastán',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-SK'] = array(
+'name' => 'Sikkim',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-TN'] = array(
+'name' => 'Tamil Nadu',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-TR'] = array(
+'name' => 'Tripura',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-UP'] = array(
+'name' => 'Uttar Pradesh',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-UL'] = array(
+'name' => 'Uttarakhand',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-WB'] = array(
+'name' => 'Bengala Occidental',
+'level' => 'state',
+);
 $subdivisions['IE']['IE-CN'] = array(
 'name' => 'Cavan',
 'level' => 'county',
@@ -894,6 +1110,30 @@ $subdivisions['IE']['IE-WD'] = array(
 $subdivisions['IE']['IE-WX'] = array(
 'name' => 'Wexford',
 'level' => 'county',
+);
+$subdivisions['IL']['IL-M'] = array(
+'name' => 'Distrito Centro',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-HA'] = array(
+'name' => 'Haifa',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-JM'] = array(
+'name' => 'Jerusalén',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-D'] = array(
+'name' => 'Distrito Sur',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-TA'] = array(
+'name' => 'Tel Aviv',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-Z'] = array(
+'name' => 'Distrito Norte',
+'level' => 'district',
 );
 $subdivisions['IT']['IT-65'] = array(
 'name' => 'Abruzos',
@@ -1826,6 +2066,94 @@ $subdivisions['RO']['RO-VS'] = array(
 $subdivisions['RO']['RO-VL'] = array(
 'name' => 'Vâlcea',
 'level' => 'county',
+);
+$subdivisions['RS']['RS-00'] = array(
+'name' => 'Belgrado',
+'level' => 'city',
+);
+$subdivisions['RS']['RS-14'] = array(
+'name' => 'Distrito de Bor',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-11'] = array(
+'name' => 'Distrito de Braničevo',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-02'] = array(
+'name' => 'Distrito de Banato Central',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-23'] = array(
+'name' => 'Distrito de Jablanica',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-09'] = array(
+'name' => 'Distrito de Kolubara',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-08'] = array(
+'name' => 'Distrito de Mačva',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-17'] = array(
+'name' => 'Distrito de Moravica',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-20'] = array(
+'name' => 'Distrito de Nišava',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-03'] = array(
+'name' => 'Distrito de Banato del Norte',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-01'] = array(
+'name' => 'Distrito de Bačka del Norte',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-10'] = array(
+'name' => 'Distrito de Podunavlje',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-13'] = array(
+'name' => 'Distrito de Pomoravlje',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-24'] = array(
+'name' => 'Distrito de Pčinja',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-19'] = array(
+'name' => 'Distrito de Rasina',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-04'] = array(
+'name' => 'Distrito de Banato del Sur',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-07'] = array(
+'name' => 'Distrito de Sirmia',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-16'] = array(
+'name' => 'Distrito de Zlatibor',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-12'] = array(
+'name' => 'Distrito de Šumadija',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-28'] = array(
+'name' => 'Distrito de Mitrovica',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-26'] = array(
+'name' => 'Distrito de Peć',
+'level' => 'district',
+);
+$subdivisions['RS']['RS-27'] = array(
+'name' => 'Distrito de Prizren',
+'level' => 'district',
 );
 $subdivisions['SK']['SK-BC'] = array(
 'name' => 'Región de Banská Bystrica',
@@ -2995,6 +3323,10 @@ $subdivisions['GB']['GB-STN'] = array(
 'name' => 'Sutton',
 'level' => 'borough',
 );
+$subdivisions['GB']['ENG'] = array(
+'name' => 'Inglaterra',
+'level' => 'country',
+);
 $subdivisions['GB']['GB-TWH'] = array(
 'name' => 'Tower Hamlets',
 'level' => 'borough',
@@ -3002,6 +3334,14 @@ $subdivisions['GB']['GB-TWH'] = array(
 $subdivisions['GB']['GB-WFT'] = array(
 'name' => 'Waltham Forest',
 'level' => 'borough',
+);
+$subdivisions['GB']['NIR'] = array(
+'name' => 'Irlanda del Norte',
+'level' => 'country',
+);
+$subdivisions['GB']['SCT'] = array(
+'name' => 'Escocia',
+'level' => 'country',
 );
 $subdivisions['GB']['GB-SWA'] = array(
 'name' => 'Swansea',
@@ -3026,6 +3366,10 @@ $subdivisions['GB']['GB-VGL'] = array(
 $subdivisions['GB']['GB-WKF'] = array(
 'name' => 'Wakefield',
 'level' => 'metropolitan district',
+);
+$subdivisions['GB']['WLS'] = array(
+'name' => 'Gales',
+'level' => 'country',
 );
 $subdivisions['GB']['GB-WLL'] = array(
 'name' => 'Walsall',
@@ -3302,4 +3646,252 @@ $subdivisions['US']['US-WI'] = array(
 $subdivisions['US']['US-WY'] = array(
 'name' => 'Wyoming',
 'level' => 'state',
+);
+$subdivisions['MT']['01'] = array(
+'name' => 'Attard',
+'level' => 'local council',
+);
+$subdivisions['MT']['02'] = array(
+'name' => 'Balzan',
+'level' => 'local council',
+);
+$subdivisions['MT']['03'] = array(
+'name' => 'Birgu',
+'level' => 'local council',
+);
+$subdivisions['MT']['04'] = array(
+'name' => 'Birkirkara',
+'level' => 'local council',
+);
+$subdivisions['MT']['05'] = array(
+'name' => 'Birżebbuġa',
+'level' => 'local council',
+);
+$subdivisions['MT']['06'] = array(
+'name' => 'Bormla',
+'level' => 'local council',
+);
+$subdivisions['MT']['07'] = array(
+'name' => 'Dingli',
+'level' => 'local council',
+);
+$subdivisions['MT']['08'] = array(
+'name' => 'Fgura',
+'level' => 'local council',
+);
+$subdivisions['MT']['09'] = array(
+'name' => 'Floriana',
+'level' => 'local council',
+);
+$subdivisions['MT']['10'] = array(
+'name' => 'Fontana',
+'level' => 'local council',
+);
+$subdivisions['MT']['11'] = array(
+'name' => 'Gudja',
+'level' => 'local council',
+);
+$subdivisions['MT']['13'] = array(
+'name' => 'Għajnsielem',
+'level' => 'local council',
+);
+$subdivisions['MT']['14'] = array(
+'name' => 'Għarb',
+'level' => 'local council',
+);
+$subdivisions['MT']['15'] = array(
+'name' => 'Għargħur',
+'level' => 'local council',
+);
+$subdivisions['MT']['16'] = array(
+'name' => 'Għasri',
+'level' => 'local council',
+);
+$subdivisions['MT']['17'] = array(
+'name' => 'Għaxaq',
+'level' => 'local council',
+);
+$subdivisions['MT']['12'] = array(
+'name' => 'Gżira',
+'level' => 'local council',
+);
+$subdivisions['MT']['19'] = array(
+'name' => 'Iklin',
+'level' => 'local council',
+);
+$subdivisions['MT']['35'] = array(
+'name' => 'Mtarfa',
+'level' => 'local council',
+);
+$subdivisions['MT']['21'] = array(
+'name' => 'Kalkara',
+'level' => 'local council',
+);
+$subdivisions['MT']['22'] = array(
+'name' => 'Kerċem',
+'level' => 'local council',
+);
+$subdivisions['MT']['23'] = array(
+'name' => 'Kirkop',
+'level' => 'local council',
+);
+$subdivisions['MT']['24'] = array(
+'name' => 'Lija',
+'level' => 'local council',
+);
+$subdivisions['MT']['25'] = array(
+'name' => 'Luqa',
+'level' => 'local council',
+);
+$subdivisions['MT']['27'] = array(
+'name' => 'Marsaskala',
+'level' => 'local council',
+);
+$subdivisions['MT']['28'] = array(
+'name' => 'Marsaxlokk',
+'level' => 'local council',
+);
+$subdivisions['MT']['29'] = array(
+'name' => 'Mdina',
+'level' => 'local council',
+);
+$subdivisions['MT']['30'] = array(
+'name' => 'Mellieħa',
+'level' => 'local council',
+);
+$subdivisions['MT']['32'] = array(
+'name' => 'Mosta',
+'level' => 'local council',
+);
+$subdivisions['MT']['33'] = array(
+'name' => 'Mqabba',
+'level' => 'local council',
+);
+$subdivisions['MT']['34'] = array(
+'name' => 'Msida',
+'level' => 'local council',
+);
+$subdivisions['MT']['36'] = array(
+'name' => 'Munxar',
+'level' => 'local council',
+);
+$subdivisions['MT']['31'] = array(
+'name' => 'Mġarr',
+'level' => 'local council',
+);
+$subdivisions['MT']['37'] = array(
+'name' => 'Nadur',
+'level' => 'local council',
+);
+$subdivisions['MT']['38'] = array(
+'name' => 'Naxxar',
+'level' => 'local council',
+);
+$subdivisions['MT']['39'] = array(
+'name' => 'Paula',
+'level' => 'local council',
+);
+$subdivisions['MT']['40'] = array(
+'name' => 'Pembroke',
+'level' => 'local council',
+);
+$subdivisions['MT']['41'] = array(
+'name' => 'Pietà',
+'level' => 'local council',
+);
+$subdivisions['MT']['43'] = array(
+'name' => 'Qormi',
+'level' => 'local council',
+);
+$subdivisions['MT']['44'] = array(
+'name' => 'Qrendi',
+'level' => 'local council',
+);
+$subdivisions['MT']['49'] = array(
+'name' => 'San Ġwann',
+'level' => 'local council',
+);
+$subdivisions['MT']['20'] = array(
+'name' => 'Senglea',
+'level' => 'local council',
+);
+$subdivisions['MT']['48'] = array(
+'name' => 'San Julián',
+'level' => 'local council',
+);
+$subdivisions['MT']['18'] = array(
+'name' => 'Ħamrun',
+'level' => 'local council',
+);
+$subdivisions['MT']['46'] = array(
+'name' => 'Rabat',
+'level' => 'local council',
+);
+$subdivisions['MT']['50'] = array(
+'name' => 'San Lawrenz',
+'level' => 'local council',
+);
+$subdivisions['MT']['45'] = array(
+'name' => 'Victoria',
+'level' => 'local council',
+);
+$subdivisions['MT']['53'] = array(
+'name' => 'Santa Luċija',
+'level' => 'local council',
+);
+$subdivisions['MT']['54'] = array(
+'name' => 'Santa Venera',
+'level' => 'local council',
+);
+$subdivisions['MT']['55'] = array(
+'name' => 'Siġġiewi',
+'level' => 'local council',
+);
+$subdivisions['MT']['56'] = array(
+'name' => 'Sliema',
+'level' => 'local council',
+);
+$subdivisions['MT']['57'] = array(
+'name' => 'Swieqi',
+'level' => 'local council',
+);
+$subdivisions['MT']['58'] = array(
+'name' => 'Ta\' Xbiex',
+'level' => 'local council',
+);
+$subdivisions['MT']['59'] = array(
+'name' => 'Tarxien',
+'level' => 'local council',
+);
+$subdivisions['MT']['60'] = array(
+'name' => 'La Valeta',
+'level' => 'local council',
+);
+$subdivisions['MT']['61'] = array(
+'name' => 'Xagħra',
+'level' => 'local council',
+);
+$subdivisions['MT']['62'] = array(
+'name' => 'Xewkija',
+'level' => 'local council',
+);
+$subdivisions['MT']['63'] = array(
+'name' => 'Xgħajra',
+'level' => 'local council',
+);
+$subdivisions['MT']['64'] = array(
+'name' => 'Żabbar',
+'level' => 'local council',
+);
+$subdivisions['MT']['67'] = array(
+'name' => 'Żejtun',
+'level' => 'local council',
+);
+$subdivisions['MT']['68'] = array(
+'name' => 'Żurrieq',
+'level' => 'local council',
+);
+$subdivisions['MT']['66'] = array(
+'name' => 'Żebbuġ',
+'level' => 'local council',
 );

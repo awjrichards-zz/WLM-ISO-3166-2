@@ -75,6 +75,58 @@ $subdivisions['BE']['BE-VWV'] = array(
 'name' => 'Заходняя Фляндрыя',
 'level' => 'province',
 );
+$subdivisions['CA']['CA-AB'] = array(
+'name' => 'Альбэрта',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-BC'] = array(
+'name' => 'Брытанская Калюмбія',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-MB'] = array(
+'name' => 'Манітоба',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NB'] = array(
+'name' => 'Нью-Брансўік',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NL'] = array(
+'name' => 'Ньюфаўндлэнд і Лябрадор',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NT'] = array(
+'name' => 'Паўночна-Заходнія тэрыторыі',
+'level' => 'territory',
+);
+$subdivisions['CA']['CA-NS'] = array(
+'name' => 'Новая Шатляндыя',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-NU'] = array(
+'name' => 'Нунавут',
+'level' => 'territory',
+);
+$subdivisions['CA']['CA-ON'] = array(
+'name' => 'Антарыё',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-PE'] = array(
+'name' => 'Востраў Прынца Эдўарда',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-QC'] = array(
+'name' => 'Квэбэк',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-SK'] = array(
+'name' => 'Саскачэван',
+'level' => 'province',
+);
+$subdivisions['CA']['CA-YT'] = array(
+'name' => 'Юкон',
+'level' => 'territory',
+);
 $subdivisions['CL']['CL-AN'] = array(
 'name' => 'Антафагаста',
 'level' => 'region',
@@ -403,6 +455,146 @@ $subdivisions['DE']['DE-TH'] = array(
 'name' => 'Турынгія',
 'level' => 'state',
 );
+$subdivisions['GH']['GH-BA'] = array(
+'name' => 'Бронг-Агафо',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-AA'] = array(
+'name' => 'Вялікая Акра',
+'level' => 'region',
+);
+$subdivisions['GH']['GH-UE'] = array(
+'name' => 'Верхні ўсходні рэгіён',
+'level' => 'region',
+);
+$subdivisions['IN']['IN-AN'] = array(
+'name' => 'Андаманскія і Нікабарскія астравы',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-AP'] = array(
+'name' => 'Андхра-Прадэш',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-AR'] = array(
+'name' => 'Аруначал-Прадэш',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-AS'] = array(
+'name' => 'Асам',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-BR'] = array(
+'name' => 'Біхар',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-CT'] = array(
+'name' => 'Чхатысгарх',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-DN'] = array(
+'name' => 'Дадра і Нагархавелі',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-DD'] = array(
+'name' => 'Даман і Дыў',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-DL'] = array(
+'name' => 'Дэлі',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-GA'] = array(
+'name' => 'Гоа',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-GJ'] = array(
+'name' => 'Гуджарат',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-HR'] = array(
+'name' => 'Хар’яна',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-HP'] = array(
+'name' => 'Хімачал-Прадэш',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-JK'] = array(
+'name' => 'Джаму і Кашмір',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-JH'] = array(
+'name' => 'Джхаркханд',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-KA'] = array(
+'name' => 'Карнатака',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-KL'] = array(
+'name' => 'Керала',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-LD'] = array(
+'name' => 'Лякадыўскія астравы',
+'level' => 'union territory',
+);
+$subdivisions['IN']['IN-MP'] = array(
+'name' => 'Мадх\'я-Прадэш',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-MH'] = array(
+'name' => 'Махараштра',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-MN'] = array(
+'name' => 'Маніпур',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-ML'] = array(
+'name' => 'Мэгхалая',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-MZ'] = array(
+'name' => 'Мізарам',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-NL'] = array(
+'name' => 'Нагаленд',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-OR'] = array(
+'name' => 'Арыса',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-RJ'] = array(
+'name' => 'Раджастхан',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-SK'] = array(
+'name' => 'Сыкім',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-TN'] = array(
+'name' => 'Тамілнад',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-TR'] = array(
+'name' => 'Трыпура',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-UP'] = array(
+'name' => 'Утар-Прадэш',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-UL'] = array(
+'name' => 'Утаракханд',
+'level' => 'state',
+);
+$subdivisions['IN']['IN-WB'] = array(
+'name' => 'Заходняя Бэнгалія',
+'level' => 'state',
+);
 $subdivisions['IE']['IE-D'] = array(
 'name' => 'Дублін',
 'level' => 'county',
@@ -418,6 +610,18 @@ $subdivisions['IE']['IE-M'] = array(
 $subdivisions['IE']['IE-U'] = array(
 'name' => 'Ольстэр',
 'level' => 'province',
+);
+$subdivisions['IL']['IL-HA'] = array(
+'name' => 'Хайфа',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-JM'] = array(
+'name' => 'Ерусалім',
+'level' => 'district',
+);
+$subdivisions['IL']['IL-TA'] = array(
+'name' => 'Тэль-Авіў',
+'level' => 'district',
 );
 $subdivisions['IT']['IT-65'] = array(
 'name' => 'Абруцца',
@@ -794,6 +998,10 @@ $subdivisions['RO']['RO-CT'] = array(
 $subdivisions['RO']['RO-IS'] = array(
 'name' => 'Ясы',
 'level' => 'county',
+);
+$subdivisions['RS']['RS-00'] = array(
+'name' => 'Бялград',
+'level' => 'city',
 );
 $subdivisions['SK']['SK-BC'] = array(
 'name' => 'Банскабыстрыцкі край',
@@ -1275,6 +1483,22 @@ $subdivisions['GB']['GB-STH'] = array(
 'name' => 'Саўтгэмптан',
 'level' => 'unitary authority',
 );
+$subdivisions['GB']['ENG'] = array(
+'name' => 'Ангельшчына',
+'level' => 'country',
+);
+$subdivisions['GB']['NIR'] = array(
+'name' => 'Паўночная Ірляндыя',
+'level' => 'country',
+);
+$subdivisions['GB']['SCT'] = array(
+'name' => 'Шатляндыя',
+'level' => 'country',
+);
+$subdivisions['GB']['WLS'] = array(
+'name' => 'Ўэйлз',
+'level' => 'country',
+);
 $subdivisions['US']['US-AL'] = array(
 'name' => 'Алабама',
 'level' => 'state',
@@ -1490,4 +1714,12 @@ $subdivisions['US']['US-WI'] = array(
 $subdivisions['US']['US-WY'] = array(
 'name' => 'Ваёмінг',
 'level' => 'state',
+);
+$subdivisions['MT']['04'] = array(
+'name' => 'Біркіркара',
+'level' => 'local council',
+);
+$subdivisions['MT']['60'] = array(
+'name' => 'Валета',
+'level' => 'local council',
 );
