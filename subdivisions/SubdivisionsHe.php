@@ -691,7 +691,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'אוטר פראדש',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'אוטראקהאנד',
 'level' => 'state',
 );
@@ -1754,6 +1754,10 @@ $subdivisions['GB']['GB-KHL'] = array(
 $subdivisions['GB']['GB-LAN'] = array(
 'name' => 'לנקשייר',
 'level' => 'two-tier county',
+);
+$subdivisions['GB']['GB-LRN'] = array(
+'name' => 'לרן',
+'level' => 'district council area (northern ireland)',
 );
 $subdivisions['GB']['GB-LDS'] = array(
 'name' => 'לידס',

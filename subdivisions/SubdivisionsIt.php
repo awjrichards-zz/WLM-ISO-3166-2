@@ -1051,7 +1051,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Uttar Pradesh',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Uttarakhand',
 'level' => 'state',
 );
@@ -3058,6 +3058,10 @@ $subdivisions['GB']['GB-GRE'] = array(
 $subdivisions['GB']['GB-GWN'] = array(
 'name' => 'Gwynedd',
 'level' => 'unitary authority (wales)',
+);
+$subdivisions['GB']['GB-HAL'] = array(
+'name' => 'Halton',
+'level' => 'unitary authority',
 );
 $subdivisions['GB']['GB-HAM'] = array(
 'name' => 'Hampshire',

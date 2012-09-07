@@ -298,3 +298,9 @@ $subdivisions['GB']['WLS'] = array(
 'name' => 'Wales',
 'level' => 'country',
 );
+
+// IN-UT (relatively new state in India, missing from commondatahub dmp)
+$subdivisions['IN']['IN-UT'] = array(
+'name' => 'Uttarakhand',
+'level' => 'state',
+);
