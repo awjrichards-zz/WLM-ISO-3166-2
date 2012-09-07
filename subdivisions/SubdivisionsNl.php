@@ -1087,7 +1087,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Uttar Pradesh',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Uttarakhand',
 'level' => 'state',
 );

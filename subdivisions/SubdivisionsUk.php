@@ -947,7 +947,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Уттар-Прадеш',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Уттаракханд',
 'level' => 'state',
 );
@@ -984,7 +984,7 @@ $subdivisions['IE']['IE-M'] = array(
 'level' => 'province',
 );
 $subdivisions['IE']['IE-SO'] = array(
-'name' => 'Слайґо',
+'name' => 'Слайго',
 'level' => 'county',
 );
 $subdivisions['IE']['IE-U'] = array(

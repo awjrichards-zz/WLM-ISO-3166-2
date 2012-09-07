@@ -171,6 +171,10 @@ $subdivisions['CL']['CL-AT'] = array(
 'name' => 'Deșertul Atacama',
 'level' => 'region',
 );
+$subdivisions['CL']['CL-CO'] = array(
+'name' => 'Coquimbo',
+'level' => 'region',
+);
 $subdivisions['CL']['CL-TA'] = array(
 'name' => 'Tarapacá',
 'level' => 'region',
@@ -991,7 +995,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Uttar Pradesh',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Uttarakhand',
 'level' => 'state',
 );
@@ -2902,10 +2906,6 @@ $subdivisions['GB']['GB-KIR'] = array(
 $subdivisions['GB']['GB-LAN'] = array(
 'name' => 'Lancashire',
 'level' => 'two-tier county',
-);
-$subdivisions['GB']['GB-LRN'] = array(
-'name' => 'Larne',
-'level' => 'district council area (northern ireland)',
 );
 $subdivisions['GB']['GB-LDS'] = array(
 'name' => 'Leeds',

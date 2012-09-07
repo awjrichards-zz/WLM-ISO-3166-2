@@ -79,10 +79,6 @@ $subdivisions['BE']['BE-VBR'] = array(
 'name' => 'Brabante Flamenco',
 'level' => 'province',
 );
-$subdivisions['BE']['BE-VLG'] = array(
-'name' => 'Flandes',
-'level' => 'region',
-);
 $subdivisions['BE']['BE-WLG'] = array(
 'name' => 'Lieja',
 'level' => 'province',
@@ -1031,7 +1027,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Uttar Pradesh',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Uttarakhand',
 'level' => 'state',
 );
@@ -1079,12 +1075,20 @@ $subdivisions['IE']['IE-LK'] = array(
 'name' => 'Limerick',
 'level' => 'county',
 );
+$subdivisions['IE']['IE-LD'] = array(
+'name' => 'Longford',
+'level' => 'county',
+);
 $subdivisions['IE']['IE-MO'] = array(
 'name' => 'Mayo',
 'level' => 'county',
 );
 $subdivisions['IE']['IE-MH'] = array(
 'name' => 'Meath',
+'level' => 'county',
+);
+$subdivisions['IE']['IE-MN'] = array(
+'name' => 'Monaghan',
 'level' => 'county',
 );
 $subdivisions['IE']['IE-M'] = array(

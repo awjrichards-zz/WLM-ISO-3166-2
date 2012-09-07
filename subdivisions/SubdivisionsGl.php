@@ -2248,7 +2248,7 @@ $subdivisions['US']['US-AZ'] = array(
 'level' => 'state',
 );
 $subdivisions['US']['US-AR'] = array(
-'name' => 'Arkansas',
+'name' => 'Arcansas - Arkansas',
 'level' => 'state',
 );
 $subdivisions['US']['US-CA'] = array(
