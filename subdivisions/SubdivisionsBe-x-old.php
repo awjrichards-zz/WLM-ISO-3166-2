@@ -587,7 +587,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Утар-Прадэш',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Утаракханд',
 'level' => 'state',
 );

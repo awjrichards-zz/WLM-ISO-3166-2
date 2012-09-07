@@ -923,7 +923,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Uttarpradéš',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Uttarákhand',
 'level' => 'state',
 );

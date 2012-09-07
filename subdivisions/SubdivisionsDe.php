@@ -83,10 +83,6 @@ $subdivisions['BE']['BE-VBR'] = array(
 'name' => 'Flämisch-Brabant',
 'level' => 'province',
 );
-$subdivisions['BE']['BE-VLG'] = array(
-'name' => 'Flandern',
-'level' => 'region',
-);
 $subdivisions['BE']['BE-VLI'] = array(
 'name' => 'Limburg',
 'level' => 'province',
@@ -208,7 +204,7 @@ $subdivisions['CL']['CL-ML'] = array(
 'level' => 'region',
 );
 $subdivisions['CL']['CL-RM'] = array(
-'name' => 'Región Metropolitana',
+'name' => 'Región Metropolitana de Santiago',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-TA'] = array(
@@ -1075,7 +1071,7 @@ $subdivisions['IN']['IN-UP'] = array(
 'name' => 'Uttar Pradesh',
 'level' => 'state',
 );
-$subdivisions['IN']['IN-UL'] = array(
+$subdivisions['IN']['IN-UT'] = array(
 'name' => 'Uttarakhand',
 'level' => 'state',
 );
