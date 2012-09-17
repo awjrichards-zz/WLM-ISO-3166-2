@@ -1836,7 +1836,7 @@ $subdivisions['RO']['RO-BH'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-BN'] = array(
-'name' => 'Județul Bistrița-Năsăud',
+'name' => 'Bistrița-Năsăud',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-BT'] = array(
@@ -1860,7 +1860,7 @@ $subdivisions['RO']['RO-BZ'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-CS'] = array(
-'name' => 'Județul Caraș-Severin',
+'name' => 'Caraș-Severin',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-CJ'] = array(
@@ -1880,7 +1880,7 @@ $subdivisions['RO']['RO-CL'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-DJ'] = array(
-'name' => 'Județul Dolj',
+'name' => 'Dolj',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-DB'] = array(
@@ -1896,11 +1896,11 @@ $subdivisions['RO']['RO-GR'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-GJ'] = array(
-'name' => 'Județul Gorj',
+'name' => 'Gorj',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-HR'] = array(
-'name' => 'Județul Harghita',
+'name' => 'Harghita',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-HD'] = array(
@@ -1916,7 +1916,7 @@ $subdivisions['RO']['RO-IS'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-IF'] = array(
-'name' => 'Județul Ilfov',
+'name' => 'Ilfov',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-MM'] = array(
@@ -1924,15 +1924,15 @@ $subdivisions['RO']['RO-MM'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-MH'] = array(
-'name' => 'Județul Mehedinți',
+'name' => 'Mehedinți',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-MS'] = array(
-'name' => 'Județul Mureș',
+'name' => 'Mureș',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-NT'] = array(
-'name' => 'Județul Neamț',
+'name' => 'Neamț',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-OT'] = array(
@@ -1956,7 +1956,7 @@ $subdivisions['RO']['RO-SV'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-TR'] = array(
-'name' => 'Județul Teleorman',
+'name' => 'Teleorman',
 'level' => 'county',
 );
 $subdivisions['RO']['RO-TM'] = array(
@@ -1972,7 +1972,7 @@ $subdivisions['RO']['RO-VS'] = array(
 'level' => 'county',
 );
 $subdivisions['RO']['RO-VL'] = array(
-'name' => 'Județul Vâlcea',
+'name' => 'Vâlcea',
 'level' => 'county',
 );
 $subdivisions['RS']['RS-00'] = array(
