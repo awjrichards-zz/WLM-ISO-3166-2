@@ -164,23 +164,23 @@ $subdivisions['CL']['CL-AN'] = array(
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AR'] = array(
-'name' => 'Arauco',
+'name' => 'Araukanien',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AP'] = array(
-'name' => 'Región de Arica y Parinacota',
+'name' => 'Arica und Parinacota',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AT'] = array(
-'name' => 'Atacamawüste',
+'name' => 'Atacama',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AI'] = array(
-'name' => 'Región de Aysén',
+'name' => 'Aysen',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-BI'] = array(
-'name' => 'Bío-Bío',
+'name' => 'Biobio',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-CO'] = array(
@@ -188,15 +188,19 @@ $subdivisions['CL']['CL-CO'] = array(
 'level' => 'region',
 );
 $subdivisions['CL']['CL-LI'] = array(
-'name' => 'Región del Libertador General Bernardo O’Higgins',
+'name' => 'O’Higgins',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-LL'] = array(
 'name' => 'Los Lagos',
 'level' => 'region',
 );
+$subdivisions['CL']['CL-LR'] = array(
+'name' => 'Los Ríos',
+'level' => 'region',
+);
 $subdivisions['CL']['CL-MA'] = array(
-'name' => 'Magallanes',
+'name' => 'Magallanes und der Chilenischen Antarktis',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-ML'] = array(
@@ -204,15 +208,15 @@ $subdivisions['CL']['CL-ML'] = array(
 'level' => 'region',
 );
 $subdivisions['CL']['CL-RM'] = array(
-'name' => 'Región Metropolitana de Santiago',
+'name' => 'Santiago Hauptstadtregion',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-TA'] = array(
-'name' => 'Tarapacá',
+'name' => 'Tarapaca',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-VS'] = array(
-'name' => 'Valparaíso',
+'name' => 'Valparaiso',
 'level' => 'region',
 );
 $subdivisions['DK']['DK-070'] = array(
