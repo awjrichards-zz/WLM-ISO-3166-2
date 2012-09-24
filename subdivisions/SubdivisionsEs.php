@@ -152,11 +152,11 @@ $subdivisions['CA']['CA-YT'] = array(
 'level' => 'territory',
 );
 $subdivisions['CL']['CL-AN'] = array(
-'name' => 'Antofagasta',
+'name' => 'Región de Antofagasta',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AR'] = array(
-'name' => 'Araucanía',
+'name' => 'Región de La Araucanía',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AP'] = array(
@@ -164,19 +164,19 @@ $subdivisions['CL']['CL-AP'] = array(
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AT'] = array(
-'name' => 'Desierto de Atacama',
+'name' => 'Región de Atacama',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-AI'] = array(
-'name' => 'Región Aysén del General Carlos Ibáñez del Campo',
+'name' => 'Región de Aysén',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-BI'] = array(
-'name' => 'Biobío',
+'name' => 'Región de Biobío',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-CO'] = array(
-'name' => 'Coquimbo',
+'name' => 'Región de Coquimbo',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-LI'] = array(
@@ -184,23 +184,23 @@ $subdivisions['CL']['CL-LI'] = array(
 'level' => 'region',
 );
 $subdivisions['CL']['CL-LL'] = array(
-'name' => 'Los Lagos',
+'name' => 'Región de Los Lagos',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-ML'] = array(
-'name' => 'Maule',
+'name' => 'Región del Maule',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-RM'] = array(
-'name' => 'Región Metropolitana de Santiago',
+'name' => 'Región Metropolitana',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-TA'] = array(
-'name' => 'Tarapacá',
+'name' => 'Región de Tarapacá',
 'level' => 'region',
 );
 $subdivisions['CL']['CL-VS'] = array(
-'name' => 'Valparaíso',
+'name' => 'Región de Valparaíso',
 'level' => 'region',
 );
 $subdivisions['DK']['DK-070'] = array(
